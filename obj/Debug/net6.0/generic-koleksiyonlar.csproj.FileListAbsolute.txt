@@ -1,0 +1,15 @@
+C:\Derslerim\generic-koleksiyonlar\bin\Debug\net6.0\generic-koleksiyonlar.exe
+C:\Derslerim\generic-koleksiyonlar\bin\Debug\net6.0\generic-koleksiyonlar.deps.json
+C:\Derslerim\generic-koleksiyonlar\bin\Debug\net6.0\generic-koleksiyonlar.runtimeconfig.json
+C:\Derslerim\generic-koleksiyonlar\bin\Debug\net6.0\generic-koleksiyonlar.dll
+C:\Derslerim\generic-koleksiyonlar\bin\Debug\net6.0\generic-koleksiyonlar.pdb
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.csproj.AssemblyReference.cache
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.AssemblyInfoInputs.cache
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.AssemblyInfo.cs
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.dll
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\refint\generic-koleksiyonlar.dll
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.pdb
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\generic-koleksiyonlar.genruntimeconfig.cache
+C:\Derslerim\generic-koleksiyonlar\obj\Debug\net6.0\ref\generic-koleksiyonlar.dll
